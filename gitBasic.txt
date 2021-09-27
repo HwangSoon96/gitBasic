@@ -22,5 +22,6 @@ git reset --hard -> 그냥 실행하면 마지막 커밋으로 파일 복구시�
 github에서 새로운 저장소를 만들었다면
 git remote add origin -> 이거 뒤에 https://github.com/HwangSoon96/gitBasic
 이렇게 저장소 주소 붙여주면 된다.
+오류가 나면 git remote rm origin으로 삭제 해주고 나서 다시 해준다.
 
 git push origin main -> 이러면 현재 코밋된 것들이 깃허브에 추가가 된다
