@@ -1,4 +1,4 @@
-git - 로컬 버전 관리 프로그램
+git - 로컬 버전 관리 프로그램.
 github - 원격 코드 저장소?
 
 git config --global user.name HwangSoon96 -> 깃헙이랑 이거랑 맞아야 잔디 심기 가능
