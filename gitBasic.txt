@@ -47,7 +47,7 @@ https://www.toptal.com/developers/gitignore
 [브랜치 만들기]
 브랜치란 나무의 가지가 여러 방향으로 가지치기를 하듯, 협업 시에 각자의 공간에서 코딩을 한 후, 나중에 한번에 합칠 때 필요한 개념
 a -> c -> d -> 다시 합치기
-          -> q -> 다시 합치기
+       -> q -> 다시 합치기
 git branch -> 어떤 브랜치가 있나 확인 가능
 git branch branch이름 -> 새로운 branch 생성
 git checkout branch이름 -> branch 이동
