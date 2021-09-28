@@ -26,7 +26,7 @@ git remote add origin -> 이거 뒤에 https://github.com/HwangSoon96/gitBasic
 
 git push origin main -> 이러면 현재 코밋된 것들이 깃허브에 추가가 된다.
 
-만약 깃허브에 푸쉬한 파일 지웠다면, 다시 클론해오면 된다.
+만약 로컬에서 깃허브에 푸쉬한 파일 지웠다면, 다시 클론해오면 된다.
 git clone 깃허브 저장소 주소 -> 이러면 내 로컬 폴더에 파일 생긴다.
 
 git pull origin main -> 만약 깃허브 쪽에서 변경 사항이 생겨 그걸 내 로컬에 적용하고 싶다면 이렇게 하면 된다.
