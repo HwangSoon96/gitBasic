@@ -52,3 +52,9 @@ git branch -> 어떤 브랜치가 있나 확인 가능
 git branch branch이름 -> 새로운 branch 생성
 git checkout branch이름 -> branch 이동
 d q 각자 브랜치에서 푸쉬 후에 깃허브에서 pull request + merge 할 수 있다.
+
+[fork]
+남의 저장소를 그대로 내 저장소로 가져오는 것
+남의 저장소를 가져와서 내 로컬에 클론 후에 수정하고, 다시 내 깃허브에 푸쉬하고 포크를 해온
+원작자에게 pull request를 요청하여 원작자가 수락하면 내가 수정한 사항이 merge 될 수 있다.
+이러한 방식이 흔히들 말하는 오픈소스에 기여하는 방식이다.
